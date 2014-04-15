@@ -1,0 +1,21 @@
+C:\Users\Dave\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Dave\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Dave\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ClearScada.Client.dll
+C:\Users\Dave\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ClearScada.Core.dll
+C:\Users\Dave\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\NLog.dll
+C:\Users\Dave\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Dave\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ClearScada.Client.xml
+C:\Users\Dave\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Dave\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\User\My Documents\Dropbox\ICT Design\ABB DOc\helloworld\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\User\My Documents\Dropbox\ICT Design\ABB DOc\helloworld\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Shiqi\Desktop\ABB Robot\ABB robot code samples\helloworld\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Shiqi\Desktop\ABB Robot\ABB robot code samples\helloworld\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Shiqi\Desktop\ABB Robot\ABB robot code samples\helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Shiqi\Desktop\ABB Robot\ABB robot code samples\helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Shiqi\Desktop\ABB Robot\ABB robot code samples\helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ClearScada.Core.dll
+C:\Users\Shiqi\Desktop\ABB Robot\ABB robot code samples\helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\NLog.dll
+C:\Users\Shiqi\Desktop\ABB Robot\ABB robot code samples\helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Shiqi\Desktop\ABB Robot\ABB robot code samples\helloworld\ConsoleApplication1\ConsoleApplication1\bin\Debug\ClearScada.Client.xml
+C:\Users\Shiqi\Desktop\ABB Robot\ABB robot code samples\helloworld\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
